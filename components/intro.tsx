@@ -33,9 +33,9 @@ export default function Intro() {
             <Image
               src="/Me.jpg"
               alt="Onggi Sanjaya"
-              width="192"
-              height="192"
-              quality="95"
+              width="200"
+              height="200"
+              quality="100"
               priority={true}
               className="h-25 w-30 rounded-full object-cover border-[0.35rem] border-white shadow-xl"
             />
